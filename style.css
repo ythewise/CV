@@ -1,0 +1,106 @@
+h1
+  {
+  font-size: 100px;
+  color: whitesmoke;
+  font-family: helvetica;
+  font-stretch: ultra-condensed;
+  font-weight: 900;
+  margin: 40px;
+  }
+
+img
+{
+ border-radius: 2cm;
+ display: grid;
+ margin: auto;
+}
+
+body
+  {
+  background-image: url(001.jpg);
+  background-size: cover;
+  background-clip: border-box;
+  }
+
+h2  {
+    color: purple;
+    font-family: helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 75px;
+    margin: 40px;
+    font-weight: 900;
+    }
+
+h3
+{
+  font-size: 60px;
+  color: lightblue;
+  font-family: helvetica ;
+  font-stretch: ultra-condensed;
+  margin: 40px;
+  font-weight: 900;
+}
+
+
+a
+{ 
+  text-decoration: none;
+  font-size: 50px;
+  color: ghostwhite;
+  font-family: helvetica;
+  font-stretch: ultra-condensed;
+  margin: 40px;
+  font-weight: 900;
+}
+
+a:hover {
+  color: peachpuff;
+}
+
+.entry {
+  font-size: 50px;
+  margin: 40px;
+ 
+}
+
+h4  {
+  font-size: 60px;
+  color: lightblue;
+  font-family: helvetica;
+  font-stretch: ultra-condensed;
+  margin: 40px;
+  font-weight: 900;
+}
+    
+.title
+{ 
+  font-size: 50px;
+  color: whitesmoke;
+  font-family: helvetica;
+  font-stretch: ultra-condensed;
+  font-weight: 900;
+  margin: 40px;
+  border-style: solid;
+  border-width: thick;
+  border-color:lightpink lightblue;
+  border-radius: 2cm;
+}    
+  
+
+
+button,
+input {
+  overflow: visible;
+  margin: 40px;
+  font-size: 60px;
+  text-decoration: none;
+  font-family: helvetica;
+  font-weight: 900;
+  background-color: transparent;
+  border-color: transparent;
+  color: snow;
+}
+
+button:hover {
+  color: purple;
+}
